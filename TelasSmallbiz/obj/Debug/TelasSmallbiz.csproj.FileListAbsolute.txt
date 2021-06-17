@@ -1,0 +1,35 @@
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\bin\Debug\TelasSmallbiz.exe.config
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\bin\Debug\TelasSmallbiz.exe
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\bin\Debug\TelasSmallbiz.pdb
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.csprojAssemblyReference.cache
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormLoginEmpreendedor.resources
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.Properties.Resources.resources
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.csproj.GenerateResource.cache
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.csproj.CoreCompileInputs.cache
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.exe
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.pdb
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormCadastroEmpreendedor.resources
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormCadastroProduto.resources
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormVisualizacoes.resources
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormPromocoes.resources
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormHome.resources
+D:\001 - C#\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormPaginaInicialEmpreendedor.resources
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\bin\Debug\TelasSmallbiz.exe.config
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\bin\Debug\TelasSmallbiz.exe
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\bin\Debug\TelasSmallbiz.pdb
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormBusca.resources
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormHome.resources
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormPaginaInicialEmpreendedor.resources
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormVisualizacoes.resources
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormCadastroEmpreendedor.resources
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormCadastroProduto.resources
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormLoginEmpreendedor.resources
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormPromocoes.resources
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.exe
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.pdb
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormCodLocais.resources
+C:\Users\Usuario\source\repos\Smallbiz-PI\TelasSmallbiz\obj\Debug\TelasSmallbiz.FormTelaDeLogin.resources
